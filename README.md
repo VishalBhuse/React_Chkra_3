@@ -1,3 +1,7 @@
+## Output :
+### `Desktop View`
+![image](https://user-images.githubusercontent.com/101569259/170861072-90170653-534a-427f-a071-a2879c221e0c.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
